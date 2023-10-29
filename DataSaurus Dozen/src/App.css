@@ -1,0 +1,24 @@
+.splotContainer {
+  display: flex;
+  justify-content: center;
+
+  -ms-user-select: none; 
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.hovered {
+  fill: red; /* or any other styling you want for the hovered state */
+  stroke: black;
+  stroke-width: 0.5;
+  
+  cursor: pointer;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}

@@ -8,7 +8,7 @@ This project presents an interactive scatterplot-based visual analysis system de
 ## Modification of Channels
 When unfamiliar with the data, deciding which data attribute to map to a visual channel can be challenging, often requiring trial and error. Visualization tools (e.g., Tableau, Spotfire, Vega-Lite) assist users through simple interactions like drag & drop to apply different channels to data attributes. Our system's objective is to facilitate this mapping process interactively, providing users the freedom to analyze data through various visual encodings.
 
-![Overview of Marks and Channels](path/to/image.jpg)  
+![Overview of Marks and Channels](figure1.png)  
 *Figure 1: Overview of typical Marks and Channels.*
 
 ## Useful Libraries for Web-based Visualizations
@@ -19,7 +19,7 @@ For this assignment, we recommend utilizing libraries like `react-select` for im
 ## System Overview
 The dataset used in this assignment includes various attributes of movies, such as genre, release time, ratings, and revenue. The Control Panel allows users to manipulate five channels (x position, y position, color, opacity, size) and decide which attributes to map through Drop-Down List Selection.
 
-![System Overview](path/to/figure2.jpg)  
+![System Overview](figure2.png)  
 *Figure 2: Overview of the system*
 
 ## References

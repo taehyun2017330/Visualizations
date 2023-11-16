@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+  }
+  
+  .visualization-container {
+    display: flex;
+  }
+  
+  .projection-view {
+    flex: 4; /* Larger size */
+    padding: 10px;
+  }
+  
+  .side-views {
+    display: flex;
+    flex-direction: column;
+    flex: 1; /* Smaller size */
+  }
+  
+  .AxisView, .LegendView {
+    flex: 1;
+  }
+  

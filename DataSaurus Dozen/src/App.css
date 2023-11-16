@@ -22,3 +22,29 @@
   50% { transform: scale(1.1); }
   100% { transform: scale(1); }
 }
+.splotContainer {
+  margin-bottom: 20px;
+  padding: 10px;
+  /* Add any additional styling you find appropriate */
+}
+
+.App {
+  text-align: center;
+  /* ...other styles... */
+}
+
+.container {
+  max-width: 600px; /* Or whatever maximum width you prefer */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title h1 {
+  font-family: 'Arial', sans-serif;
+  /* ...other styles... */
+}
+
+.introduction p {
+  font-family: 'Georgia', serif;
+  /* ...other styles... */
+}

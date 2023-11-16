@@ -4,12 +4,12 @@ This folder contains a series of data visualization projects, showcasing a varie
 
 ## Project 1
 
-<img src="DataSaurus%20Dozen/figure1.png" alt="Datasaurus" width="70%" />
+<img src="DataSaurus%20Dozen/figure1.png" alt="Datasaurus" width="50%" />
 *1. DataSaurus Dozen*
 
 ## Project 2
 
-<img src="Marks%20and%20Channels/figure2.png" alt="Datasaurus" width="70%" />
+<img src="Marks%20and%20Channels/figure2.png" alt="Datasaurus" width="100%" />
 *2. Marks and Channels*
 
 ## Project 3

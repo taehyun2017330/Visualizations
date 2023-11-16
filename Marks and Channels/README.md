@@ -20,6 +20,8 @@ For this assignment, we recommend utilizing libraries like `react-select` for im
 ## System Overview
 The dataset used in this assignment includes various attributes of movies, such as genre, release time, ratings, and revenue. The Control Panel allows users to manipulate five channels (x position, y position, color, opacity, size) and decide which attributes to map through Drop-Down List Selection.
 
+Purpose of this visualization is a simple way to view movie ratings in IMDB and rotten tomatos while easily changing marks for data types. Users can view how effective each mark types are and how ineffective some mark types are easily by just changing the sliders. A quick cool way to see how different movies are rated and different methods we can visualize the same data.
+
 ![System Overview](figure2.png)  
 *Figure 2: Overview of the system*
 

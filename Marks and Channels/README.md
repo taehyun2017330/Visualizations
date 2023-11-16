@@ -8,8 +8,9 @@ This project presents an interactive scatterplot-based visual analysis system de
 ## Modification of Channels
 When unfamiliar with the data, deciding which data attribute to map to a visual channel can be challenging, often requiring trial and error. Visualization tools (e.g., Tableau, Spotfire, Vega-Lite) assist users through simple interactions like drag & drop to apply different channels to data attributes. Our system's objective is to facilitate this mapping process interactively, providing users the freedom to analyze data through various visual encodings.
 
-![Overview of Marks and Channels](figure1.png)  
-*Figure 1: Overview of typical Marks and Channels.*
+
+<img src="figure1.png" alt="Figure 1: Overview of typical Marks and Channels." width="50%" />
+
 
 ## Useful Libraries for Web-based Visualizations
 Effective development of web-based visual analysis systems necessitates the use of various libraries. While D3 is employed for crafting the central visualizations, additional functionalities are essential for interactive manipulation, utilization, and analysis. For instance, sliders for selecting time ranges in time-series data analysis can greatly enhance analytical freedom.

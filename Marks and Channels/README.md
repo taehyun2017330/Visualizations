@@ -1,4 +1,4 @@
-# Project Title: Importance of Marks & Channels in Representing Data
+# Importance of Marks & Channels in Representing Data
 
 ## Introduction
 Visual idioms consist of two orthogonal components: marks and channels. Marks are the basic graphical elements, while channels are the manipulable attributes that define the appearance of marks. The design of visual idioms requires a thoughtful mapping of data attributes to channels, considering aspects like Expressiveness, Effectiveness, Separability, and Preattentive perception.

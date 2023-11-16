@@ -7,6 +7,7 @@ Multidimensional Projections (MDP) are a principal methodology for visualizing h
 
 In this project, we aim to implement the Star Coordinates algorithm, a classic Linear projection method that accumulates the values of attributes along each axis vector to determine the 2D coordinates of high-dimensional data points. Star Coordinates allows users to interactively change the axis vectors, providing more insights compared to static projection algorithms. We will develop an Interactive Star Coordinates system where users can alter axis vectors through mouse interactions and observe the evolving scatterplot.
 
+<img src="figure1.png" alt="Figure 1: Star Coordinates" width="50%" />
 *Figure 1: Star Coordinates - The left image illustrates the accumulation of attribute values along the axis vectors to determine the data points' positions. The right image shows the changing projection as the axis vectors are altered.*
 
 ### 1.2. CheckViz: Visualizing MDP Distortions
@@ -37,7 +38,8 @@ The Projection View visualizes the data points in the 2D space as determined by 
 ### Legend View
 The color map used in the CheckViz visualization differs from typical color schemes as it needs to express both Missing and False Neighbors distortions. It requires a non-standard two-dimensional color map. Therefore, it is essential to provide a visualized legend for users to correctly interpret the CheckViz. The Legend View will visualize the two-dimensional color map as a square grid.
 
-*Figure 2: Overview of the system to be implemented.*
+<img src="figure2.png" alt="Figure 2: System Overview" width="50%" />
+*Figure 2: Overview of the system*
 
 ## References
 - Aupetit M., 2007, Neurocomputing, 70, 1304

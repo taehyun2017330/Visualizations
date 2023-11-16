@@ -38,7 +38,7 @@ The Projection View visualizes the data points in the 2D space as determined by 
 ### Legend View
 The color map used in the CheckViz visualization differs from typical color schemes as it needs to express both Missing and False Neighbors distortions. It requires a non-standard two-dimensional color map. Therefore, it is essential to provide a visualized legend for users to correctly interpret the CheckViz. The Legend View will visualize the two-dimensional color map as a square grid.
 
-<img src="figure2.png" alt="Figure 2: System Overview" width="50%" />
+<img src="figure2.png" alt="Figure 2: System Overview" width="80%" />
 *Figure 2: Overview of the system*
 
 ## References
